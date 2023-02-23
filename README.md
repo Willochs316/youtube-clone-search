@@ -2,7 +2,7 @@
 
 ▶️ A very humble search engine and YouTube video player, made with React.js 🎥
 
-<img src="youtube-clone.gif" alt="germancutraro-youtube-app" />
+<img src="youtube-clone.gif" alt="youtube image" />
 
 ## Installation
 
@@ -34,10 +34,6 @@ module.exports = API_KEY;
 
 ## Author
 
-**germancutraro**
+**Willochs Ojigbo**
 
-made with [@bauticutraro](https://github.com/bauticutraro)
-
-## Idea
-
-* The idea was taken from Stephen Grider React.js course, then i tried to styled the app to make it more real like Youtube, so thanks to Stephen! 
+made with [@Willochs316](https://github.com/Willochs316)
