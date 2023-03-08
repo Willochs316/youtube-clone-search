@@ -1,5 +1,5 @@
 import React from "react";
-import VideoItem from "./videoItem";
+import VideoItem from "./VideoItem";
 // styles
 import { ListContainer } from "./videoStyles";
 

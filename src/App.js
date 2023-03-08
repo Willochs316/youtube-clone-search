@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
 import YTSearch from "youtube-api-search";
 // Components
-import SearchBar from "./components/SearchBar/searchBar";
-import VideoList from "./components/VideoList/videoList";
-import VideoDetail from "./components/VideoDetail/videoDetail";
-import Nav from "./components/Nav/nav";
+import SearchBar from "./components/SearchBar/SearchBar";
+import VideoList from "./components/VideoList/VideoList";
+import VideoDetail from "./components/VideoDetail/VideoDetail";
+import Nav from "./components/Nav/Nav";
 // styles
 import { Container } from "./appStyles.js";
 // Personal Key, it would be hidden for you. Get One!
