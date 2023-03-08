@@ -1,13 +1,13 @@
-import React from 'react';
+import React from "react";
 import {
   Item,
   ItemWrapper,
   ItemTitle,
   ItemChannel,
-  Thumbnail
-} from './videoStyles';
+  Thumbnail,
+} from "./videoStyles";
 
-const VideoListItem = props => {
+const VideoListItem = (props) => {
   const { title, thumbnails, channelTitle } = props.snippet;
 
   return (

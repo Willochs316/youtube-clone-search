@@ -1,10 +1,10 @@
-import React from 'react';
-import VideoItem from './VideoItem';
+import React from "react";
+import VideoItem from "./videoItem";
 // styles
-import { ListContainer } from './videoStyles';
+import { ListContainer } from "./videoStyles";
 
-function VideoList({ videos, handleSelectVideo }) {
-  const list = videos.map(video => (
+const VideoList = ({ videos, handleSelectVideo }) => {
+  const list = videos.map((video) => (
     <VideoItem
       key={video.etag}
       handleSelectVideo={handleSelectVideo}
@@ -12,6 +12,6 @@ function VideoList({ videos, handleSelectVideo }) {
     />
   ));
   return <ListContainer>{list}</ListContainer>;
-}
+};
 
 export default React.memo(VideoList);

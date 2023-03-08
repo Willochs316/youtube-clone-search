@@ -31,24 +31,52 @@ Run app
 npm start
 ```
 
+## Usage
+
 **Create an API KEY**, then create a `key.js` file inside the `src` folder, and write this:
 
 ```javascript
-const API_KEY = 'YOUR_PERSONAL_KEY';
+const API_KEY = "YOUR_PERSONAL_KEY";
 
-module.exports = API_KEY;  
+module.exports = API_KEY;
 ```
 
 ## Built With
 
-* React.js
-* Styled Components
-* Youtube API V3 Data
+- React.js
+- Styled Components
+- Youtube API V3 Data
+
+## Related projects
+
+Related projects to a YouTube search clone app, depends on the specific features and functionality of the app. Here are a few examples:
+
+- YouTube video downloader: A tool for downloading YouTube videos to a local device or cloud storage.
+
+- YouTube video editor: A video editing tool for creating or modifying YouTube videos.
+
+- YouTube data analysis: A data analytics tool for analyzing YouTube videos, comments, likes, and other data.
+
+- YouTube recommendation engine: A machine learning system for generating personalized recommendations for YouTube videos based on user preferences.
+
+- YouTube content management system: A tool for managing and organizing YouTube channels, videos, and playlists.
+
+YouTube live streaming app: A live streaming tool for broadcasting live events on YouTube.
 
 ## Author
 
 **Willochs Ojigbo**
+<br >
+**Tochukwu Nzewi**
 
 made with [@Willochs316](https://github.com/Willochs316)
+and [@tochi26](https://github.com/tochi26)
+
+## Licensing
+### MIT License
+
+Copyright (c)
+| ----------- | ----------- |
+Every individual receiving a copy of this program and the related documentation files (the "Software") is hereby granted permission to deal in the Software without limitations.
 
 ### Thank you for using the YouTube Clone Search App!

@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import {
   VideoContainer,
   Frame,
@@ -6,10 +6,14 @@ import {
   VideoTitle,
   VideoChannel,
   Divider,
-  VideoDescription
-} from './videoDetailStyles';
+  VideoDescription,
+} from "./videoDetailStyles";
 
-function VideoDetail({ videos, children }) {
+// VideoDetail function takes in two videos and children.
+// if the video query is not null return true.
+
+// we destructure the videoId from the array of videos also along with the title, channelTitle and description.
+const VideoDetail = ({ videos, children }) => {
   if (!videos) return null;
 
   const { videoId } = videos.id,
@@ -28,6 +32,6 @@ function VideoDetail({ videos, children }) {
       {children}
     </VideoContainer>
   );
-}
+};
 
 export default React.memo(VideoDetail);

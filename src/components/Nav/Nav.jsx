@@ -1,15 +1,15 @@
-import React from 'react';
-import YoutubeLogo from './YoutubeLogo.svg';
+import React from "react";
+import YoutubeLogo from "./youtubeLogo.svg";
 // styles
-import { NavContainer, Logo } from './navStyles';
+import { NavContainer, Logo } from "./navStyles";
 
-function Nav({ children }) {
+const Nav = ({ children }) => {
   return (
     <NavContainer>
-      <Logo src={YoutubeLogo} alt='' />
+      <Logo src={YoutubeLogo} alt="" />
       {children}
     </NavContainer>
   );
-}
+};
 
 export default React.memo(Nav);
