@@ -63,6 +63,9 @@ Related projects to a YouTube search clone app, depends on the specific features
 
 YouTube live streaming app: A live streaming tool for broadcasting live events on YouTube.
 
+## Screenshot
+![youtube search clone](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2wvlaqiti7h24hdman0l.png)
+
 ## Author
 
 **Willochs Ojigbo**
