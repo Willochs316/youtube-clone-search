@@ -79,7 +79,7 @@ and [@tochi26](https://github.com/tochi26)
 ### MIT License
 
 Copyright (c)
-| ----------- | ----------- |
+
 Every individual receiving a copy of this program and the related documentation files (the "Software") is hereby granted permission to deal in the Software without limitations.
 
 ### Thank you for using the YouTube Clone Search App!
