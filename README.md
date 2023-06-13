@@ -69,11 +69,8 @@ YouTube live streaming app: A live streaming tool for broadcasting live events o
 ## Author
 
 **Willochs Ojigbo**
-<br >
-**Tochukwu Nzewi**
 
-made with [@Willochs316](https://github.com/Willochs316)
-and [@tochi26](https://github.com/tochi26)
+made by [@Willochs316](https://github.com/Willochs316)
 
 ## Licensing
 ### MIT License
